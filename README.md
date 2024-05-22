@@ -1,10 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Batman</title>
+</head>
+<body>
+    <h1>Kamusta kapatid!</h1>
+    <p>Ang mga ibon ay lumilipad.</p>
+</body>
 </html>
- </body>
-  <main>
-    </h1>kamusta</h1>
-     <p>hello.</p>
-  <main>
-    <img>
-    <img scr="https://cdn.freecodecamp.org/curriculum/cat/photo-app/relaxing-cat.jpg">  
-
-
